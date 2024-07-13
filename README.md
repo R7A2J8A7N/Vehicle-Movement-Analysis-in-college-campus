@@ -71,14 +71,14 @@ Start the virtual environment created in Step 1 and install all required depende
 bash   
 pip install -r requirements.txt   
 If installing individually, use the following commands:   
-bash 
-pip install python 
-pip install numpy 
-pip install pandas  
-pip install matplotlib   
-pip install opencv-python  
-pip install jupyter  
-pip install pytesseract  
+bash  
+pip install python    
+pip install numpy   
+pip install pandas    
+pip install matplotlib     
+pip install opencv-python    
+pip install jupyter    
+pip install pytesseract    
 ### Step 4: Open Jupyter Notebook  
 Once all dependencies are installed, open Jupyter Notebook in the same terminal:  
 bash  
