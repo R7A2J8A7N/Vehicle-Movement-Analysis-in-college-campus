@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ambulanve</folder>
+	<filename>005273_17.jpg</filename>
+	<path>C:\Users\maman\OneDrive\Desktop\yolo\dataset\ambulanve\005273_17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4323</width>
+		<height>2711</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambulance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>88</ymin>
+			<xmax>4227</xmax>
+			<ymax>2708</ymax>
+		</bndbox>
+	</object>
+</annotation>

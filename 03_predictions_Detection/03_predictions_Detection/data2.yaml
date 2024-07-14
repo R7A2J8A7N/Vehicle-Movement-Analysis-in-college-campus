@@ -1,0 +1,4 @@
+train: Number_Plates/train
+val: Number_Plates/test
+nc: 1
+names: ['licence']

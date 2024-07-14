@@ -1,0 +1,8 @@
+train: vechles_dataset/train
+val: vechles_dataset/test
+nc: 4
+names: ['car',
+        'motercycle',
+        'bus',
+        'ambulance'
+]
