@@ -87,6 +87,6 @@ This command will launch Jupyter Notebook in your default web browser.
 ### Step 5: Run the Notebook  
 Navigate to the relevant Jupyter Notebook file within the repository and execute all the code blocks sequentially. This will initialize the YOLOv5 model, load the datasets, and run the vehicle and number plate detection algorithms.  
 ## Project-video
--  [project-video](./project-video)
+-  [project-video](https://github.com/R7A2J8A7N/Vehicle-Movement-Analysis-in-college-campus/tree/main/projet-video)
 ## Project-documentation
--  [project-Documentation](./project-Documentation)
+-  [project-Documentation](https://github.com/R7A2J8A7N/Vehicle-Movement-Analysis-in-college-campus/tree/main/project-documentation)
